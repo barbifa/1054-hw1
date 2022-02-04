@@ -1,0 +1,12 @@
+hr.divider-white {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #ffffff;
+    opacity: 1;
+}
+
+.img-fixed-size {
+    width: 100%;
+    height: 200px;
+}
